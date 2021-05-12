@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK&display=swap');
 #hero{
     background-image: url(/images/lofi2.jpg);
     height: 1100px;
@@ -6,7 +6,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
 
 }
 
