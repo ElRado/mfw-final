@@ -1,5 +1,17 @@
-#caroselcontrols {
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+/* #caroselcontrols {
     height: 500px;
     background-position: center center;
     
+} */
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.caption1{
+    align-items: center;
+}
+.about{
+height: 500px;
 }
