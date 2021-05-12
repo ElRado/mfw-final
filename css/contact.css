@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+#hero{
+    background-image: url(/images/lofi2.jpg);
+    height: 1100px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+#contact{
+    opacity: 80%;
+    
+}
